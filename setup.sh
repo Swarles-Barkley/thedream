@@ -1,4 +1,6 @@
+#!/bin/bash
 #hardcode password entry for alpines here?
+
 yum install -y ansible
 
 ssh-keygen -t rsa
